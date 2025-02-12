@@ -1,6 +1,6 @@
 def find_factorial(number):
     factorial = 1
-    i = 2
+    i = 1
     while i <= number:
         factorial = factorial * i
         i += 1
