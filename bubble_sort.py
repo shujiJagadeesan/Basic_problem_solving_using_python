@@ -8,7 +8,5 @@ def bubble_sort(arr):
         if not swapped:
             break
 arr = [5,3,9,4,2,8,1]
-
-
 bubble_sort(arr)
 print(arr)
